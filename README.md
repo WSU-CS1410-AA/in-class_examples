@@ -12,11 +12,10 @@ wsl
 cmake ..
 ```
 
-To compile all these examples, run the command:
+* To compile all these examples, run the following command. This might take a while as it will compile every single example. 
 ```
 make 
 ```
-This might take a while as it will compile every single example. 
 
 * To run an example program, use its chapter number (`chp??`) and example number (`ex??`). For example, under the `src/chp01-Basics` folder there is a program named `ex02-primitives.cpp`. We use the chapter number `chp01` and the example number `ex02` to run this program by doing something like this:
 
