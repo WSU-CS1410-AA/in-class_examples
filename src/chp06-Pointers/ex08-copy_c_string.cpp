@@ -1,5 +1,6 @@
 // FILE: ex08-copy_c_string.cpp
 #include <iostream>
+#include <cstring>
 using namespace std;
 
 void copystr(char desc[], char src[]){

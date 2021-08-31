@@ -23,7 +23,7 @@ void Stack::push(int item) {
 int Stack::pop(){
   if(top == 0){
     cout << "Stack is empty." << endl;
-    return HUGE_VAL;
+    return INT_MAX;
   }
 
   top--;

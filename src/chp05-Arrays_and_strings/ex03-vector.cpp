@@ -1,5 +1,6 @@
 //FILE: ex03-vector.cpp
 #include <iostream>
+#include <algorithm>
 #include <vector>
 using namespace std;
 

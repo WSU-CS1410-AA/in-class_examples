@@ -1,5 +1,6 @@
 //FILE: ex02-array.cpp
 #include <iostream>
+#include <algorithm>
 #include <array>
 #include <cmath>
 #include <iomanip>

@@ -4,7 +4,7 @@
 
 #include <iostream>
 #include <iomanip>
-#include <cmath>
+#include <climits>
 
 class Stack{
 private:
