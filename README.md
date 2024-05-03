@@ -11,7 +11,7 @@ These tools are set up once at the beginning of the semester. Once all the above
 To clone this repository, run the command:
 
 ```
-git clone https://github.com/aalgahmi/in-class_examples
+git clone https://github.com/WSU-CS1410-AA/in-class_examples
 ```
 
 This will create a folder named **in-class-examples**. Open this folder in Visual Studio Code. If you see a popup with an option for "Reopen in Container," click that. Otherwise, click the Dev Container icon at the bottom left corner and select "Reopen in Container." If this is the first time you are running this command, it will create a linux-based development container with all the tools you need to write, debug, and run C++ programs. If you've used this container before, the container will run without rebuilding, and it will start faster.
